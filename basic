@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>
+            text formating tags
+        </title>
+    </head>
+    <body>
+        Abbreviation Tag : <abbr title="Global Organization of Oriented Group Language of Earth">GOOGLE</abbr><br><br>
+        Marked Tag : <mark>Google</mark><br><br>
+        Strong Tag : <strong>Google</strong><br><br>
+        Emphasized Tag : <em>Google</em><br><br>
+        Definition Tag : <dfn title="It is an american multinational technology company">Google</dfn><br><br>
+        Bold : <b>Google</b><br><br>
+        Small : <small>Google</small><br><br>
+        Italic : <i>Google</i><br><br>
+        Delete : <del>Google</del><br><br>
+        Insertion : <ins>Google</ins><br><br>
+        Subscript : NH<sub>2</sub><br><br>
+        Superscript : a<sup>2</sup>-b<sup>2</sup>
+    </body>
+</html>
